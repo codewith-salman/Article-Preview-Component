@@ -3,8 +3,6 @@
 <br />
 <div align="center">
 
-<br /><br />
-
 ## 📰 Article Preview Component  
 A clean and interactive **Article Preview UI Component** built using HTML, CSS, and JavaScript.  
 Designed to display article summaries with a modern layout and an engaging share-button interaction.
