@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Article%20Preview/images/desktop.png" alt="Article Preview Component Logo" width="120"/>
+<img src="Article%20Preview/images/favicon-32x32.png" alt="Article Preview Component Logo" width="120"/>
 
 <br />
 <br />
