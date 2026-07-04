@@ -75,7 +75,7 @@ This component is ideal for developers practicing **responsive design, layout st
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
+- **JavaScript**  
 
 ---
 
