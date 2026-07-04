@@ -62,7 +62,6 @@ This component is ideal for developers practicing **responsive design, layout st
 
 ## ✨ Features
 
-- Clean and modern UI  
 - Responsive layout for all screen sizes  
 - Interactive share popup with smooth animation  
 - Author info section with image and details  
