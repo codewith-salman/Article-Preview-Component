@@ -21,7 +21,6 @@
 <img src="Article%20Preview/images/favicon-32x32.png" alt="Article Preview Component Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">📰 Article Preview Component</h1>
 
@@ -59,8 +58,6 @@ The design focuses on clarity, readability, and smooth interactions. By clicking
 
 This component is ideal for developers practicing **responsive design, layout structuring, and interactive UI behavior** using pure HTML, CSS, and JavaScript.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -72,8 +69,6 @@ This component is ideal for developers practicing **responsive design, layout st
 - Minimal, content-focused design  
 - Fully customizable for any article or blog layout  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -81,8 +76,6 @@ This component is ideal for developers practicing **responsive design, layout st
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
