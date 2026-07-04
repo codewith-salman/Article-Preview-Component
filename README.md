@@ -66,7 +66,6 @@ This component is ideal for developers practicing **responsive design, layout st
 - Responsive layout for all screen sizes  
 - Interactive share popup with smooth animation  
 - Author info section with image and details  
-- Minimal, content-focused design  
 - Fully customizable for any article or blog layout  
 
 ---
